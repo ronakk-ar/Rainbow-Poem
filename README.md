@@ -28,6 +28,8 @@ Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicurament
 
 I love it so much I am editing a copy as a Pull Request 
 
+Tu haa kar ya naa kar
+
 Git is Awesome! 
 
 Oi! Esse é um repositório para poemas sobre arco iris :D
